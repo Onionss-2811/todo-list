@@ -1,0 +1,12 @@
+.item {
+    border: 1px solid gray;
+    padding: 3px 5px;
+    margin: 5px 1px;
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-title {
+
+}

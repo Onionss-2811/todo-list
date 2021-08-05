@@ -1,6 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import TaskList from './component/TaskList.jsx';
+dev-login
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+import "bootstrap/dist/css/bootstrap.min.css";
 
-ReactDOM.render(<TaskList />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById("root"));
+
+
