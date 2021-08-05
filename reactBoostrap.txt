@@ -1,0 +1,2 @@
+npm install react-bootstrap@next bootstrap@5.0.2
+import 'bootstrap/dist/css/bootstrap.min.css';
